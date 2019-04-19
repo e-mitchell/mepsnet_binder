@@ -5,4 +5,5 @@ install.packages("dplyr")
 install.packages("foreign")
 install.packages("devtools")
 
+library(devtools)
 install_github("e-mitchell/meps_r_pkg/MEPS")
